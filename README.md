@@ -1,2 +1,2 @@
-# lab-assignment-krmu-webdev-2
-this is portfolio assignment
+Hey there! This is my portfolio project where I learned the basics of web development. It's split into two distinct parts: Lab 1 (Pure HTML) is just the skeleton—the plain, unstyled structure of the site. Then we get to Lab 2 (HTML + CSS), where I brought in CSS to actually make it look good, handle the layout, and make it responsive.
+Lab 2 output : <img width="1755" height="2351" alt="image" src="https://github.com/user-attachments/assets/62f73bea-019e-4923-b7d8-850c94ca5af9" />
